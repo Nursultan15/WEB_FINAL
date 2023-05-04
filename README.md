@@ -1,6 +1,6 @@
 ## Simple shop project with Spring framework.
 
-by Nursultan SagynbaevCOM20 .
+Nursultan SagynbaevCOM20 .
 
 Spring dependencies: <br>
 - Spring Web
