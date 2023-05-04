@@ -6,14 +6,14 @@ DEPLOYMENT : https://www.google.com/search?q=hgydhnss%3Bgflgmfisu3i422m+n2m+3r3r
 
 Spring dependencies: <br>
 - Spring Web
-- Spring Security 
-- Spring JPA (PosgtreSQL) 
 - Thymeleaf 
+- Spring Security 
 - Lombok
+- Spring JPA (PosgtreSQL) 
 - Java Mail Sender
 
 
-Screenshots and Database ERM diagram: <br>
+Screenshots : <br>
 
 ![](https://github.com/Sakubek1337/Spring-Finals/blob/main/screenshots/diagram.PNG) <br>
 ![](https://github.com/Sakubek1337/Spring-Finals/blob/main/screenshots/screen0.PNG) <br>
