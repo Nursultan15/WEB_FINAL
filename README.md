@@ -1,4 +1,4 @@
-## Simple shop project with Spring framework.
+## Shop project with Spring framework.
 
 Nursultan SagynbaevCOM20 .
 
