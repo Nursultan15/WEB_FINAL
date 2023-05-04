@@ -1,7 +1,7 @@
 # Quote Shop.
 ## Simple shop project with Spring framework.
 
-by Mambetkadyrov Salamatbek.
+by Nursultan Sagynbaev.
 
 Deployment: https://quote-shop.herokuapp.com (HEROKU) <br>
 
