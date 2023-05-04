@@ -3,8 +3,6 @@
 
 by Nursultan Sagynbaev.
 
-Deployment: https://quote-shop.herokuapp.com (HEROKU) <br>
-
 Language: Java <br>
 Version: 8 <br>
 Spring version: 2.7 <br>
