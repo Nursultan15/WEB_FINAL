@@ -1,6 +1,7 @@
 ## Simple shop project with Spring framework.
 
-by Nursultan Sagynbaev.
+by Nursultan SagynbaevCOM20 .
+
 Spring dependencies: <br>
 - Spring Web
 - Spring Security 
