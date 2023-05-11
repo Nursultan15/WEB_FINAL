@@ -13,3 +13,6 @@ Spring dependencies: <br>
 - Lombok
 - Spring JPA (PosgtreSQL) 
 - Java Mail Sender
+
+![photo_2023-05-10_19-47-59](https://github.com/Nursultan15/WEB_FINAL/assets/73534336/0f8a2da9-479d-4843-8999-8f97be9e4684)
+![photo_2023-05-10_19-47-43](https://github.com/Nursultan15/WEB_FINAL/assets/73534336/20e1e221-8562-4c65-9f9f-2e21c49ae650)
