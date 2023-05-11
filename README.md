@@ -15,6 +15,8 @@ Spring dependencies: <br>
 - Java Mail Sender
 
 
+
+
 ![photo_2023-05-10_19-47-57](https://github.com/Nursultan15/WEB_FINAL/assets/73534336/bf41c764-4caf-441c-890d-c0a7bd92461b)
 ![photo_2023-05-10_19-48-02](https://github.com/Nursultan15/WEB_FINAL/assets/73534336/b4620b11-227a-4de5-8111-24329dba506c)
 ![photo_2023-05-10_19-47-51](https://github.com/Nursultan15/WEB_FINAL/assets/73534336/061d6492-402a-45eb-aa13-8ae3c20fe1c8)
